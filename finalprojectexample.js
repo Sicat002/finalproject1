@@ -61,7 +61,7 @@ function init() {
     // Correct Positioning
     stats.dom.style.position = 'fixed';
     stats.dom.style.left = '400px';
-    stats.dom.style.top = '0px';
+    stats.dom.style.top = '400px';
     stats.dom.style.zIndex = '1000'; // Ensure it's on top
 
     // Resize Entire Panel (not just canvas)
